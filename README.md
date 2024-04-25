@@ -5,8 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaspaljat2004]
 
-- [![LinkedIn] (https://www.linkedin.com/mypreferences/d/categories/account)(https://www.linkedin.com/in/jaspaljat/)
-
+- [![LinkedIn] linkedin.com/in/jaspal-jat-117835204
 - 📝 I regularly write articles on [https://medium.com/@jaspal.opsstation]
 
 - 💬 Ask me about ** Terraform, Kubernetes, Docker, Nginx, PHP, Apache2, Linux,  AWS **
