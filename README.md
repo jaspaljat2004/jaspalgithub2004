@@ -3,11 +3,11 @@
 <h3 align="center">I'm A DevOps Engineer</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaspaljat2004](https://github.com/rahulyadav7777)
+- 👨‍💻 All of my projects are available at [https://github.com/jaspaljat2004]
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Yadav-blue?style=flat&logo=linkedi)](https://www.linkedin.com/in/rahulyadav77/)
+- [![LinkedIn]
 
-- 📝 I regularly write articles on [https://medium.com/@jaspal.opsstation](https://medium.com/@therahulyadav33)
+- 📝 I regularly write articles on [https://medium.com/@jaspal.opsstation]
 
 - 💬 Ask me about ** Terraform, Kubernetes, Docker, Nginx, PHP, Apache2, Linux,  AWS **
 
