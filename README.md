@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaspaljat2004]
 
-- [![LinkedIn]
+- [![LinkedIn] (https://www.linkedin.com/mypreferences/d/categories/account)(https://www.linkedin.com/in/jaspaljat/)
 
 - 📝 I regularly write articles on [https://medium.com/@jaspal.opsstation]
 
