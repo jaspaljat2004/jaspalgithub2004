@@ -8,7 +8,7 @@
 - [![LinkedIn] [[linkedin.com/in/jaspal-jat-117835204]](https://www.linkedin.com/in/jaspal-jat-117835204/)
 - 📝 I regularly write articles on [https://medium.com/@jaspal.opsstation]
 
- 👨‍💻 All of my projects are available at [https://gitlab.com/dashboard/projects]
+- 👨‍💻 All of my projects are available at [https://gitlab.com/dashboard/projects]
 
 - 💬 Ask me about ** Terraform, Kubernetes, Docker, Nginx, PHP, Apache2, Linux,  AWS **
 
